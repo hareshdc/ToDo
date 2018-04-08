@@ -1,1 +1,1 @@
-#Todo
+Sample ToDo List web app in JS.
